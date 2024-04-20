@@ -1,0 +1,19 @@
+{
+  "name": "articles.pozniakov.dev",
+  "version": "1.0.0",
+  "description": "My blog about web and technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/radpozniakov/articles.pozniakov.dev.git"
+  },
+  "author": "Rad Pozniakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radpozniakov/articles.pozniakov.dev/issues"
+  },
+  "homepage": "https://github.com/radpozniakov/articles.pozniakov.dev#readme"
+}
